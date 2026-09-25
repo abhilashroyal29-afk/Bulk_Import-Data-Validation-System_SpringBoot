@@ -10,9 +10,10 @@ import lombok.NoArgsConstructor;
 public class  ApiResponseDto {
 	
 	private  String message;
-	
+
 	
 	private  boolean success;
+
 	
 	private  Object data;
 
