@@ -10,6 +10,8 @@ import lombok.NoArgsConstructor;
 public class ImportSummaryDto {
 	
 	private Long jobId;
+
+
 	
 	private int totalRecords;
 	
