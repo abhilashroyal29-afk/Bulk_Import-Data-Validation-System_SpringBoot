@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 public class ErrorRecordDto {
 	
 	private int  rowNumber;
-	
 	private String  errorMessage;
 
 
