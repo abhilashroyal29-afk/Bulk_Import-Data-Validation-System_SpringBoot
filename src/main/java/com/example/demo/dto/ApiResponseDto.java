@@ -11,7 +11,6 @@ public class  ApiResponseDto {
 	
 	private  String message;
 
-	
 	private  boolean success;
 
 	
